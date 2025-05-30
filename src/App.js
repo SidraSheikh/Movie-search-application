@@ -75,7 +75,7 @@ const App = () => {
           align="center"
           sx={{ fontWeight: "bold", color: "#ff9800" }}
         >
-          🎬 Movie Search App
+          Movie Search 
         </Typography>
         <SearchBar onSearch={handleSearch} />
 
